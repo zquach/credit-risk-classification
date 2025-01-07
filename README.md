@@ -8,7 +8,7 @@ The purpose of this analysis was to develop a machine learning model capable of 
 To conduct the analysis, the data was preprocessed by splitting it into features (X) and labels (y). Then, the dataset was divided into a training set (80% of the data) to teach the program and a testing set (20%) to check how well it worked. A logistic regression model was chosen because it’s simple and effective for problems where you’re predicting one of two outcomes. After training the model on the training data, it was tested to see how well it could predict the loan statuses. Key metrics like accuracy, precision, recall, and F1-score were used to measure how well the program performed. Overall, the model worked well, making it a good tool for predicting whether a loan is risky or safe.
 
 
-git <h3>Results</h3>
+<h3>Results</h3>
 
 - Accuracy: 99%
 - Precision:
